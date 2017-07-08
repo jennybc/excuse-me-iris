@@ -1,6 +1,6 @@
 # excuse-me-iris
 
-Toy repo for used as an example in "Excuse me, do you have a moment to talk about version control?", a soon-to-appear article by Jennifer Bryan.
+Toy repo used as an example in "Excuse me, do you have a moment to talk about version control?", a soon-to-appear article by Jennifer Bryan.
 
 This is the world's smallest and most boring analysis: we compute Species-specific median for the sepal and petal variables in the iris data. Yawn. It is meant to be boring, so we can just focus on the progression of small changes made to the source file [`iris.R`](iris.R).
 
